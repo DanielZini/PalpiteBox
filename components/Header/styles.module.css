@@ -1,0 +1,9 @@
+.logo {
+  display: block;
+  width: 150px;
+  margin: 0 auto;
+}
+
+.wrapper {
+  @apply relative bg-gray-200 p-4 shadow-md z-50;
+}
